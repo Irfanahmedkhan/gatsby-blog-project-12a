@@ -1,0 +1,32 @@
+body {}
+
+.AboutPage {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    max-width: 55rem;
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+.page {
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.LeftBar {
+    
+    
+    padding: 10px;
+}
+
+.LeftBar img {
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px black;
+    
+}
+
+.RightBar {
+    
+    padding: 10px;
+}

@@ -1,0 +1,13 @@
+.blogPost {
+    padding: 10px;
+    border: 1px solid rgb(209, 208, 208);
+    border-radius: 5px;
+}
+
+.blogImage {
+    text-align: center;
+}
+
+.blogImage p {
+    font-size: 13px;
+}

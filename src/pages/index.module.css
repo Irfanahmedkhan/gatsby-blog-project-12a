@@ -1,0 +1,87 @@
+body {
+    /* background: url(../images//bg.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+     */
+     background-color: rgb(27, 27, 27);
+}
+
+.example {
+    position: absolute !important;
+}
+
+.mainPage {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+h5>a {
+    text-decoration: none;
+}
+
+link {
+    text-decoration: none;
+}
+
+.post {
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    position: relative;
+    box-shadow: 2px 2px 8px black;
+}
+
+.post:hover {
+    transform: scale(0.97);
+    transition: all .4s ease;
+}
+
+.postImage {
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    align-items: center;
+    top: 0px;
+    padding: 20px;
+    background-color: #3B74C7;
+    height: 200px;
+}
+
+.postImage img {
+    height: 180px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px black;
+}
+
+.postText {
+    position: absolute;
+    bottom: 0px;
+    height: 100px;
+    width: 300px;
+    background-color: white;
+    padding: 5px 20px 5px 20px;
+}
+
+.postText h5 {
+    color: #124797;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.postText h6 {
+    position: absolute;
+    bottom: 0;
+    right: 15px;
+    color: red;
+    font-size: 0.9rem;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.postText p {
+    color: black;
+}
