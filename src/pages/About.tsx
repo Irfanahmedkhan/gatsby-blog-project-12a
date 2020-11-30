@@ -39,6 +39,11 @@ const About = () => {
                     </p>
                     <a style={{color: "blue"}}>  <strong> HTML / CSS </strong>  ,  <strong> Javascript / TypeScript </strong>,  <strong> ReactJS / GatsbyJS </strong>,  <strong> Jamstack </strong>,  <strong> Netlify Build / Development </strong>,  <strong> FaunaDB Database </strong>,   <strong> REST API </strong>,  <strong> GraphQL  </strong>,  <strong> Material UI </strong>,  <strong> AntD Design </strong>,  <strong> BootStrap </strong>,  <strong> Redux ToolKit </strong>,  <strong> WEB Animation </strong>,  <strong> Formik / Yup </strong>, 
                     </a>
+
+                    
+                    <h6>whatsup : 00966569429782</h6>
+                    <a href="https://github.com/Irfanahmedkhan">GitHUB</a>
+
                  
                 </div>
             </div>
@@ -46,7 +51,7 @@ const About = () => {
             <footer>
                 © {new Date().getFullYear()}, Built with
         {` `}
-                <a href="https://www.gatsbyjs.com">Gatsby & Contectfull by : <strong>Irfan Ahmed</strong> </a>
+                <a href="https://github.com/Irfanahmedkhan">Gatsby & Contectfull by : <strong>Irfan Ahmed</strong> </a>
             </footer>
 
         </div>
