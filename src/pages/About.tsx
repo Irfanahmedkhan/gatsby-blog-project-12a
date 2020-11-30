@@ -37,13 +37,9 @@ const About = () => {
 
                     <p>I started my coding journey almost 6 month before with sir Zia bootCamp 2020, all thanx to sir Zia and other respected teachers for their precious time and guideline.
                     </p>
-                    <p>
-                        Alhamdolillah I completed all 12 project with good understanding, 
-                        
-                    </p>
-                    <p style={{backgroundColor: "yellow"}}>
-                        i will update this blog if required ...
-                    </p>
+                    <a style={{color: "blue"}}>  <strong> HTML / CSS </strong>  ,  <strong> Javascript / TypeScript </strong>,  <strong> ReactJS / GatsbyJS </strong>,  <strong> Jamstack </strong>,  <strong> Netlify Build / Development </strong>,  <strong> FaunaDB Database </strong>,   <strong> REST API </strong>,  <strong> GraphQL  </strong>,  <strong> Material UI </strong>,  <strong> AntD Design </strong>,  <strong> BootStrap </strong>,  <strong> Redux ToolKit </strong>,  <strong> WEB Animation </strong>,  <strong> Formik / Yup </strong>, 
+                    </a>
+                 
                 </div>
             </div>
 
