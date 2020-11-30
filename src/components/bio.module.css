@@ -1,6 +1,7 @@
 .bio {
     display: flex;
     margin-left: 20px;
+    z-index: 2;
     
 }
 
