@@ -31,16 +31,19 @@ const About = () => {
                 
                 <div className={style.RightBar}>
                     <h4><strong>Irfan Ahmed</strong></h4>
-                    <h6>Working as HSE Engineer in KSA - Madinah</h6>
+                    <h6>Saudi Arab - Pakistan</h6>
                     <hr />
-                    <h6><strong>My Coding Journey</strong></h6>
+                    {/* <h6><strong>My Coding Journey</strong></h6>
 
                     <p>I started my coding journey almost 6 month before with sir Zia bootCamp 2020, all thanx to sir Zia and other respected teachers for their precious time and guideline.
-                    </p>
-                    <a style={{color: "blue"}}>  <strong> HTML / CSS </strong>  ,  <strong> Javascript / TypeScript </strong>,  <strong> ReactJS / GatsbyJS </strong>,  <strong> Jamstack </strong>,  <strong> Netlify Build / Development </strong>,  <strong> FaunaDB Database </strong>,   <strong> REST API </strong>,  <strong> GraphQL  </strong>,  <strong> Material UI </strong>,  <strong> AntD Design </strong>,  <strong> BootStrap </strong>,  <strong> Redux ToolKit </strong>,  <strong> WEB Animation </strong>,  <strong> Formik / Yup </strong>, 
+                    </p> */}
+
+                    <h6><strong>My Skills are : </strong></h6>
+
+                    <a style={{color: "blue"}}>  <strong> Jamstack </strong> , <strong> HTML / CSS </strong>  ,  <strong> Javascript / TypeScript </strong>,  <strong> ReactJS / GatsbyJS </strong>,  <strong> Jamstack </strong>,  <strong> Netlify Build / Deployment </strong>,  <strong> FaunaDB Database </strong>,   <strong> REST API </strong>,  <strong> GraphQL API with Apollo Client 3  </strong>,  <strong> Material UI </strong>,  <strong> AntD Design </strong>,  <strong> BootStrap </strong>,  <strong> Redux ToolKit </strong>,  <strong> WEB Animation </strong>,  <strong> Formik / Yup </strong>, 
                     </a>
 
-                    
+                    <br/>
                     <h6>whatsup : 00966569429782</h6>
                     <a href="https://github.com/Irfanahmedkhan">GitHUB</a>
 

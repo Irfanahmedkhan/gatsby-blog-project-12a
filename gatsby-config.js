@@ -10,7 +10,7 @@ module.exports = {
     title: `My Coding Journey`,
     author: {
       name: `Irfan Ahmed`,
-      summary: `HSE Engineer, Live & Work in Madinah-Saudi Arabia.`,
+      summary: `Live & Work in Saudi Arabia / Pakistan.`,
     },
     description: `Contentful Gatsby Blog `,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
