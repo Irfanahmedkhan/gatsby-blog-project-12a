@@ -82,6 +82,7 @@ query ContentfulBlogPostBySlug($slug: String!) {
       }
     }
   }
+  
   contentfulPost( slug: {eq: $slug}) {
     author
     subtitle

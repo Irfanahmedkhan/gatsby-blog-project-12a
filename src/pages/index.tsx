@@ -56,7 +56,7 @@ const BlogIndex = ({ data, location }: Props) => {
       <Bio />
       <div className={style.mainPage}>
 
-        {posts.map((post: { node: { title: any; slug: string | number | null | undefined; subtitle: any; excerpt: any } }, i: number) => {
+        {posts.map((post: { node: { title; slug; subtitle; excerpt} }, i: number) => {
           const title = post.node.title || post.node.slug
 
           return (

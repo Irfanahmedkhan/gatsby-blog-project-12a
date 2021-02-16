@@ -1,10 +1,3 @@
-// const dotenv = require ('dotenv')
-
-// if (process.env.NODE_ENV !== 'production') {
-//   dotenv.config()
-// }
-
-
 module.exports = {
   siteMetadata: {
     title: `My Coding Journey`,
@@ -68,9 +61,9 @@ module.exports = {
     {
       resolve: `gatsby-source-contentful`,
       options: {
-        spaceId: `0y73mzkq256q`,
-        accessToken: 'YleeF2_SZkkdyxfCS8JZhIC3vsWChuFlF78iRgE8Rgc'
-        // process.env.CONTENTFUL_ACCESS_TOKEN
+        spaceId: "#contentful spaceID#",  // Add space ID from contentful account 
+        accessToken: " Token" // Add Token from contentful account 
+        
       },
     },
     `@contentful/gatsby-transformer-contentful-richtext`,
